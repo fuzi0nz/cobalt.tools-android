@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
-  <h1>Built with AI Studio</h2>
+  <h1>Built with Bubblewrap CLI</h2>
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
+  <p>Cobalt.Tools PWA for android.</p>
+I am not a developer I just wanted a simple way to use cobalt.tools on my android device. If you'd like to contribute or take over the project let me know as this is not my expertise. I'll try to provide all the necessary files Im just not sure what I'm doing lol, please help 🤣
+  
 
 </div>
